@@ -11,3 +11,7 @@ https://unityroom.com/games/petarimu-bu
 BGM：[甘茶の音楽工房](https://amachamusic.chagasi.com/)  
 SE：[効果音ラボ](https://soundeffect-lab.info/)  
 フォント：[Nikkyou Sans Font](https://www.fontspace.com/nikkyou-sans-font-f31053)  
+
+---
+2020/09/02
+プロジェクトからサウンドデータ削除。フォントをM+に変更しました。
